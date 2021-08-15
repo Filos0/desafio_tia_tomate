@@ -1,0 +1,21 @@
+//Variables
+@import 'abstracts/variables';
+
+
+//Base styling
+@import 'base/reset';
+@import 'base/base';
+@import 'base/typography';
+
+
+//Layout styling
+@import 'layout/header';
+@import 'layout/start';
+@import 'layout/about';
+@import 'layout/footer';
+@import 'layout/us';
+@import 'layout/contact';
+
+//components styling
+@import 'components/buttons';
+
